@@ -28,9 +28,10 @@ A clean and simple weather app built with **HTML**, **CSS**, and **JavaScript** 
    
 2. Replace the placeholder API key:
 Open script.js and replace the API key line with your own:
-const apiKey = "YOUR_API_KEY_HERE";
+   ```bash
+   const apiKey = "YOUR_API_KEY_HERE";
 
-3. Open index.html in your browser and start searching for weather data!
+4. Open index.html in your browser and start searching for weather data!
 
 🔑 Get your free API key
 Sign up at https://openweathermap.org/api, go to your profile, and copy your API key from the API keys section.
