@@ -35,3 +35,6 @@ Open script.js and replace the API key line with your own:
 
 🔑 Get your free API key
 Sign up at https://openweathermap.org/api, go to your profile, and copy your API key from the API keys section.
+
+## Follow Me On IG !
+
